@@ -4,7 +4,7 @@ int main() {
 
 Grabadora Graba("Hello perro!");
 
-std::cout << "Woof woof" << std::endl;
+std::cout << "Wooooooooooof woof" << std::endl;
 
 std::cout << "Quack quack" << std::endl;
 
